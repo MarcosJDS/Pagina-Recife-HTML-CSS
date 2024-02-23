@@ -1,0 +1,40 @@
+body{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: Helvetica;
+    background-color: black;
+    color:white;
+}
+
+body h3{
+    color: yellow;
+    font-size: 20px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 1px solid rgb(255, 255, 255);
+    align-items: center;
+    font-family: Helvetica;
+}
+
+nav h1{
+    color: blue;
+    font-size: 40px;
+}
+
+body div img{
+        text-align: center;
+}
+
+nav ul{
+        display: flex;
+        list-style: none;
+}
+    
+nav ul li{
+    margin-right: 20px;
+        
+}
